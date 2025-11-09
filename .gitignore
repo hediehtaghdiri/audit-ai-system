@@ -7,3 +7,5 @@ backend/.env
 # React
 frontend/node_modules/
 frontend/build/
+# فایل‌های بزرگ media در backend
+backend/afrashomal/media/
